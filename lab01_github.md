@@ -25,11 +25,11 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ## *A Favorite Quote*
 
->  "You have not observed. And yet you have seen." - Sherlock Holmes
+>  "Strive not to be a success, but rather to be of value." - Albert Einstein
 
 ## *A Favorite Photo*
 
-![alt text](https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg "Friedland")
+![alt text]https://static1.squarespace.com/static/550a089fe4b0aa7b05658388/t/554a9530e4b061744f03039f/1430951241188/Los-Angeles-Slider1.jpg?format=2500w)
 
 ["Lee Friedlander: American Icon". The New Yorker.](https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg) September 2, 2010. 
 
