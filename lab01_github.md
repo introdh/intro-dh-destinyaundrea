@@ -29,7 +29,7 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ## *A Favorite Photo*
 
-![alt text] (https://www.timeout.com/los-angeles/restaurants/la-times-the-taste)
+![alt text]! (https://www.timeout.com/los-angeles/restaurants/la-times-the-taste)
 
 ["The Taste". Timeout.](https://www.timeout.com/los-angeles/restaurants/la-times-the-taste) 
 
