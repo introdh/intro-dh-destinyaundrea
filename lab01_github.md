@@ -36,6 +36,6 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 ## *Questions*
 
 The biggest questions I have going into this class are:
-- What in DH?!
-- Do I need to know how to code?
-- Can I bring coffee to class since we are in a lab?
+- What exactly is Digital Humanities?
+- How much will we be coding?
+- What will the projects and assignments be like?
