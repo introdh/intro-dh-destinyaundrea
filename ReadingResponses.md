@@ -39,6 +39,49 @@ While reading about Moretti’s theories, I have been wondering what inspired hi
 
 ### 2017-09-25: Topic modeling I
 
+Topic Modeling: A Basic Introduction
+
+“Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’.” 
+
+Here, it seems as if topic modeling is very similar to distant reading. Would it be safe to say that topic modeling and distant reading are interchangeable terms and concepts or are they completely separate?
+
+“How the actual topic modeling programs is determined by mathematics. Many topic modeling articles include equations to explain the mathematics, but I personally cannot parse them.”
+
+Maybe topic modeling and distant reading are not as similar as I thought. While distant reading is more about understanding literary history, it seems as if topic modeling has more of a foundation in mathematics and equations. 
+
+The Digital Humanities Contribution to Topic Modeling
+
+“The humanities is unused to such formal simulacra, however, and so a journal about scholarship might appear to be a journal about tools and software. But none of the authors in this issue simply run and accept the results as “useful” or “interesting” for humanities scholarship. Instead, they critically wrestle with the process. Their work is done with as much of a focus on what the computational techniques obscure as reveal.”
+
+While topic modeling seems to be heavily related to mathematical equations, it still has a humanities background. Not only are they discussing and analyzing the math aspect of it, but also the process and the obscurities of the process.
+
+“Because topic modeling transforms or compresses free data (raw narrative text) into structured data (topics as a ratio of word tokens and their strength of representation in documents) it is tempting to think of it as “solving” text.”
+
+The concept I don’t understand here is “word tokens.” Initially I thought that it simply just meant words but when I looked it up, the definition was much more complex and confusing. I would like to discuss this more.
+
+
+Text Analysis of Martha Ballard’s Diary
+
+“For the purposes of this particular program, it was more important to distill words into a basic unit rather than maintain the complexity of capitalized characters. Once the data was scrubbed, we could turn to writing a program that would count the number of deliveries recorded in the diary.”
+
+This seems to be very similar, or the same, to tidying data. Tidying or “scrubbing” data is important to make sure that all the data is consistent in its form and able to be collapsed, combined with, or compared to other data. 
+
+“The discrepancies between the program’s tally of deliveries and Ulrich’s delivery count speak to broader issues in “digital” text mining versus “manual” text mining.”
+
+Does this mean that digital or manual text mining is more efficient? Would it be best to just use both of these methods and compare the results or just choose one method?
+
+
+What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?
+
+“But we’ve reached a shared sense that topic modeling can enrich the history of literary scholarship by revealing trends that are presently invisible.”
+
+This is, what I view as, the main objective of concepts such as topic modeling and distant reading. By simply doing close reading, it is almost impossible to examine all of the trends that have been present throughout literary history. However, with methods such as these, it is easier for scholars to examine trends and compare them to literary trends and society now. 
+
+“Of course a topic can also be a subject category — modeling PMLA, we have found topics that are primarily “about Beowulf” or “about music.” Or a topic can be a group of words that tend to co-occur because they’re associated with a particular critical approach.”
+
+I am still having trouble fully grasping the concept of topic modeling. Is a “topic” the amount of times a word or phrase shows up in various works? Or is it more complex? It seems to be the latter as this reading discusses subject categories, etc. 
+
+
 ### 2017-10-02: Topic Modeling II
 
 ### 2017-10-09: Stylometry
