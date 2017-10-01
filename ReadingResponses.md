@@ -84,6 +84,48 @@ I am still having trouble fully grasping the concept of topic modeling. Is a “
 
 ### 2017-10-02: Topic Modeling II
 
+Mining the Dispatch
+
+“The real potential of topic modeling, however, isn't at the level of the individual document. Topic modeling, instead, allows us to step back from individual documents and look at larger patterns among all the documents, to practice not close but distant reading, to borrow Franco Moretti's memorable phrase.”
+
+Last week I wondered if topic modeling was similar to distant reading or if they were related at all. I initially concluded that the answer was no because topic modeling seemed to have more of a mathematical background than a humanities background. However, our class discussion and this passage confirm that the answer is yes, they are certainly similar and related.
+
+Though this is not necessarily a passage, these is a section of the website that is titled “Threshold” and allows you to set the threshold to a certain percent to adjust the graph. 
+
+What exactly is the threshold in topic modeling? Is it specific to this Dispatch project or is it a concept in topic modeling as a whole?
+
+Signs at 40
+
+“Because topics are models of word usage, the term topic is misleadingly narrow. The patterns of language are often better described as discourses, topoi, or rhetorical frames. The attraction of topic modeling is precisely its capacity to capture (if only approximately) these central concepts of cultural and political analysis.”
+
+I think this is a good description of topic modeling. The word “topic” can be confusing when thinking about this method of data analysis. However, it makes more sense to discuss in relation to how we apply it to our knowledge about discourse and rhetoric throughout history. 
+
+“Because we model only the co-occurrence of words, it is possible for “topics” not to be perfectly coherent semantically....Another possibility is the “intrusion” of a word into a topic where it seems out of place. This has the result of linking articles in which that intrusive word is prominent with a topic in a potentially misleading way.”
+
+What is the damage that could be done by issues such as these intrusive words? What happens if we end up viewing a word as a topic when it is really not? Could this influence what we think was a pattern during a time in literary history? What are the consequences of this?
+
+Text Analysis of Trump’s Tweets
+
+“My analysis, shown below, concludes that the Android and iPhone tweets are clearly from different people, posting during different times of day and using hashtags, links, and retweets in distinct ways. What’s more, we can see that the Android tweets are angrier and more negative, while the iPhone tweets tend to be benign announcements and pictures.”
+
+It’s interesting that text analysis can show patterns like this. Because it has been shown/proven that Trump uses a Samsung Galaxy, this makes a think about the difference between the angry, wild things he tweets and the more toned down tweets from his employees. 
+
+“A lot has been written about Trump’s mental state. But I’d really rather get inside the head of this anonymous staffer, whose job is to imitate Trump’s unique cadence (“Very sad!”), or to put a positive spin on it, to millions of followers. Are they a true believer, or just a cog in a political machine, mixing whatever mainstream appeal they can into the @realDonaldTrump concoction?”
+
+What does this say about the state of our government? Not only do we have Trump making ridiculous tweets, but also people that he has hired to tweet like him.
+
+Data Miners
+
+“Text mining aims to shed light on authorship and the creative process by examining word
+patterns in individual books…”
+
+In our discussions of text analysis and mining so far, we have discussed it mostly in reference to patterns over time. However, it is interesting to think about how it also reflects the patterns of specific authors and their creativity.
+
+“At the climax of “Mockingbird,” Ms. Lee’s voice as a writer is less distinct than at any other point in the novel, the researchers said.”
+
+Does text mining truly have the ability to distinguish between different voices of writers? How are the distinctions between the different writers/writing styles actually determined?
+
+
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
