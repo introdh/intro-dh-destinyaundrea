@@ -132,6 +132,47 @@ Does text mining truly have the ability to distinguish between different voices 
 
 ### 2017-10-23: Mapping: A Critical Introductin
 
+Beyond GIS
+
+“But humanities scholarship increasingly reflects what may in fact, by the greatest legacy of postmodernism, the acknowledgment that our understanding of the world itself is socially constructed.” 
+
+This is something that I haven’t thought about in depth. As we study the world through a humanities lens, we are studying how the world is socially constructed. 
+
+“At its core, GIS is a powerful software that uses location to integrate and visualize information.”
+
+I would like to discuss how this compares to the other analysis software and techniques we have been discussing in class this semester. 
+
+What is Spatial History?
+
+“Visualization and spatial history are not about producing illustrations or maps to communicate things that you have discovered by other means. It is a means of doing research; it generates questions that might otherwise go unasked…”
+
+Here, it does seem as if GIS has similar purposes as other techniques we have studied this semester. 
+
+“Thus GIS often ends up emphasizing not the constructed-ness of space but rather its given-ness…”
+
+What is the difference between constructed-ness and given-ness? Would it be similar to the difference between connotation and denotation?
+
+Crampton - Mapping
+
+“Perhaps most arresting is the increasing separation of GIS and mapping from geography as a whole.” - 2
+
+So it seems as if GIS and mapping are becoming more conceptual rather than geography-based.
+
+“If the theoretical critique cleared conceptual space for alternative mappings, it has fallen to a variety of practitioners, most of them outside the academy…”
+
+How would one “clear” conceptual space?
+
+What is GIS?
+
+“GIS allows us to view, understand, question, interpret, and visualize our world in ways that reveal relationships, patterns, and trends in the form of maps, globes, reports, and charts.”
+
+It seems as if GIS does for geography what software such as Mallet does for text. 
+
+“GIS benefits organizations of all sizes and in almost every industry. There is a growing interest in and awareness of the economic and strategic value of GIS.”
+
+Will GIS be able to keep up with the ever changing world of technology and technological neesd of various industries?
+
+
 ### 2017-11-06: Social networks
 
 ### 2017-11-13: Layering Networks
