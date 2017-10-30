@@ -11,7 +11,7 @@ Overall, this topic modeling experience was quite interesting and I am glad I pi
 
 
 
-Works Cited
+## Works Cited
 
 Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us 
 About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. 
