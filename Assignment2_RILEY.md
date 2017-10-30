@@ -1,4 +1,4 @@
-##Journal of Criminal Law and Criminology
+## Journal of Criminal Law and Criminology
 
 <p>I decided to study data from The Journal of Criminal Law and Criminology. I wanted to have an abundance of information to study for my topic model so I picked the word counts from the issues of this journal from 1990-2010. I felt this would give me enough information for this project, as it was around 1,000 issues of the journal. In terms of type of data, my goal was to see how often race was discussed in terms of law enforcement and criminal justice. I wanted to see if race was discussed in regards to issues such racial discrimination with police brutality, prison sentencing, treatment in prison, etc. We, as a society, tend to talk about the effect of race on situations of police brutality as if it has just started happening a few years ago. In reality, race has been a factor in discrimination in the entire criminal justice system since even before the actual criminal justice system was officially established. I hoped that these journal issues from 1990-2010 would tell a similar story or at least give some insight into how people were discussing race in criminal justice between 1990 and 2010.</p>
 
@@ -10,7 +10,7 @@
 
 <p>Overall, this topic modeling experience was quite interesting and I am glad I picked this data set to observe and analyze.</p>
 
-<p> #Works Cited </p>
+# Works Cited
 
 <p>Goldstone, Andrew and Ted Underwood. “What Can Topic Models of PMLA Teach Us About the History of Literary Scholarship?” Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.</p>
 
