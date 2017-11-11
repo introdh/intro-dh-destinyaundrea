@@ -18,13 +18,13 @@ In Bodenhamer’s piece, he describes deep mapping as moving the user “from th
 
 In terms of representing space and place, the main limitation I see is that mapping is political. When thinking about it, “it is hard to imagine mapping that does not in some way or other involve politics, mapping is itself a political act” (Crampton, Mapping, 2010). Because it will always be political, there will always be bias involved. That can always be a critique someone makes about a map, specifically in terms of georeferencing. Some people’s way of representing space and place will always be different than someone else’s, and this will inherently cause conflict and disagreement because of the political nature behind the mapping. It would be interesting to think of a way where mapping would not involve any bias in the future, but I’m not sure if we will ever fully get to that point. Though we may not get to that point, it is certainly interesting to think about. </p>
 
-<p>Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the Future of History.” p. 1-13. _History and GIS: Epistomologies, Considerations and Reflections_. Springer, 2013.</p>
+<p>Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the Future of History.” p. 1-13. History and GIS: Epistomologies, Considerations and Reflections. Springer, 2013.</p>
 
 <p>Crampton, Jeremy. Mapping: A Critical Introduction to Cartography and GIS. Wiley-Blackwell, 2010.</p>
 
-<p>Hillier, Amy. "Redlining in Philadelphia." *Past Time, Past Place: GIS for History*. ESRI Press, 2002.</p>
+<p>Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.</p>
 
-<p>Nelson, Robert K., LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” *American Panorama*, ed. Robert K. Nelson and Edward L. Ayers.</p>
+<p>Nelson, Robert K., LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers.</p>
 
-<p>“Visually Explore Demographic Data.” *Social Explorer*.</p>
+<p>“Visually Explore Demographic Data.” Social Explorer.</p>
 
