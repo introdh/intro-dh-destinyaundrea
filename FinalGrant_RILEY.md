@@ -9,17 +9,18 @@
     3. Narrative
     
         a. Enhancing the humanities
-        b. Environmental scan <br />
+        b. Environmental scan
         c. History of the project
         d. Work plan
         e. Staff
-        f. Final product and dissemination </p>
+        f. Final product and dissemination
 
 **List of Participants**
 
-<p>Jagger Boussuge (Freshman year student at the University of Richmond)
-    
 Destiny Riley (Junior year student at the University of Richmond)
+
+Jagger Boussuge (Freshman year student at the University of Richmond)
+    
 
 Tucker Shelley (Junior year student at the University of Richmond)</p>
 
