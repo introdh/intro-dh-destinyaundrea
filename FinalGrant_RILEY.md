@@ -1,5 +1,4 @@
-<p>Started from 1985, Now we’re Here
-Using Text Analysis To Analyze Rap Lyrics</p>
+<p>**Started from 1985, Now We’re Here: Using Text Analysis To Analyze Rap Lyrics**</p>
 
 <p>Table of contents
 List all parts of the application. <br />
