@@ -1,9 +1,13 @@
 ## Started from 1985, Now We’re Here: Using Text Analysis To Analyze Rap Lyrics ##
 
 **Table of contents**
+
     1. Abstract
+    
     2. List of participants
+    
     3. Narrative
+    
         a. Enhancing the humanities
         b. Environmental scan <br />
         c. History of the project
