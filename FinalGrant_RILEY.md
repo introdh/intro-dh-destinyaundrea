@@ -1,6 +1,7 @@
 ## Started from 1985, Now We’re Here: Using Text Analysis To Analyze Rap Lyrics ##
 
 **Table of contents**
+    
     1. Abstract
     
     2. List of participants
@@ -14,10 +15,12 @@
         e. Staff
         f. Final product and dissemination </p>
 
-**List of participant**
+**List of Participants**
 
 <p>Jagger Boussuge (Freshman year student at the University of Richmond)
+    
 Destiny Riley (Junior year student at the University of Richmond)
+
 Tucker Shelley (Junior year student at the University of Richmond)</p>
 
 **Abstract**
